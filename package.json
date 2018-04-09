@@ -1,0 +1,16 @@
+{
+  "name": "noop-es2015",
+  "version": "1.0.0",
+  "description": "noop for ES2015 Modules",
+  "main": "index.js",
+  "repository": "github:ko-yelie/noop-es2015",
+  "keywords": [
+    "noop",
+    "no operation",
+    "modules",
+    "import",
+    "es2015",
+    "es6"
+  ],
+  "license": "MIT"
+}
