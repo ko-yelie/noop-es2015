@@ -1,6 +1,6 @@
 {
   "name": "noop-es2015",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "noop for ES2015 Modules",
   "main": "index.js",
   "repository": "github:ko-yelie/noop-es2015",
